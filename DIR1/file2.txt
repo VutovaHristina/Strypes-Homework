@@ -1,0 +1,6 @@
+Cat
+Lion
+Pig
+Tiger
+Bear
+Wolf
